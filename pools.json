@@ -604,7 +604,7 @@
             "name" : "PEGA Pool",
             "link" : "https://www.pega-pool.com"
         },
-        "NSA Pool": {
+        "/NSA Pool/": {
             "name": "NSA Pool",
             "link": "https://nsa.gov"
         }
