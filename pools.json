@@ -603,6 +603,10 @@
         "/pegapool/" : {
             "name" : "PEGA Pool",
             "link" : "https://www.pega-pool.com"
+        },
+        "NSA Pool": {
+            "name": "NSA Pool",
+            "link": "https://nsa.gov"
         }
     },
     "payout_addresses" : {
@@ -1337,6 +1341,10 @@
         "1BGFwRzjCfRR7EvRHnzfHyFjGR8XiBDFKa" : {
             "name" : "PEGA Pool",
             "link" : "https://www.pega-pool.com"
+        },
+        "tb1p2ys0xaudalj3ww5m7utf2ag3vgj0jcwq83e9cr5chrdg79wl9yv5hqqc09w04": {
+            "name" : "NSA Pool",
+            "link" : "https://nsa.gov"
         }
     },
     "slugs": {
@@ -1478,6 +1486,7 @@
         "1M1X": "1m1x",
         "OKMINER": "okminer",
         "Titan": "titan",
-        "PEGA Pool": "pegapool"
+        "PEGA Pool": "pegapool",
+        "NSA Pool": "nsapool",
     }
 }
